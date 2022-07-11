@@ -23,6 +23,8 @@
 
 </details>
 
+插件： https://github.com/xiangfeidexiaohuo/openwrt-packages
+
 ***
 
 * 不出意外，固件每周五上午更新！
